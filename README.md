@@ -1,3 +1,4 @@
 # Spotify
 An analysis of the most streamed songs on spotify
-![https://app.powerbi.com/view?r=eyJrIjoiZTRlNDc2ZDYtNDBjYS00YThlLTgxYzYtMmQxN2E3YWY4NGVkIiwidCI6ImNmNGQxZDUxLWEzMjQtNDhmNC1iNTc5LTIwOGIyZDQ5MzAwZiJ9]
+Full dashboard available [here]([https://app.powerbi.com/view?r=eyJrIjoiMWE4OWYwNWUtZDhmNC00MWMxLThhMGYtMzNiOTgyMzUzNGQ1IiwidCI6ImNmNGQxZDUxLWEzMjQtNDhmNC1iNTc5LTIwOGIyZDQ5MzAwZiJ9](https://app.powerbi.com/view?r=eyJrIjoiZTRlNDc2ZDYtNDBjYS00YThlLTgxYzYtMmQxN2E3YWY4NGVkIiwidCI6ImNmNGQxZDUxLWEzMjQtNDhmNC1iNTc5LTIwOGIyZDQ5MzAwZiJ9)https://app.powerbi.com/view?r=eyJrIjoiZTRlNDc2ZDYtNDBjYS00YThlLTgxYzYtMmQxN2E3YWY4NGVkIiwidCI6ImNmNGQxZDUxLWEzMjQtNDhmNC1iNTc5LTIwOGIyZDQ5MzAwZiJ9)
+
